@@ -61,4 +61,31 @@ _*Negrito e itálico*_
 - [ ] Viva
 - [ ] Desfrute
 - [ ] Lute
-  
+
+  ![mikasa](https://github.com/okeliel/Testando-Markdown/assets/146295300/5003f8c2-f3b6-42a3-b2b0-9ac1e8bc5289)
+
+ ## Tabela
+Número|Nome|Nota
+ ---|---|--- 
+  10 | Eliel | 9,5
+  23 | Vida | 6,4
+  15 | Merabe | 9.5
+  16 | Micau | 9,1
+
+  ## Comandos de Programação
+
+  Como funciona o código `n = str (input ('What's your name?'))`
+
+  ### Trechos e Códigos de Programação 
+
+`Os seis pontos utilizados são crases.` 
+ ```
+ n = str (input ('Your name is?'))
+ print (f'Your name is {n}.')
+ ```
+
+## Emojis
+
+`Olá, tudo  bem? :hand`
+Olá, tudo bem? 🤙
+
