@@ -87,5 +87,6 @@ Número|Nome|Nota
 ## Emojis
 
 `Olá, tudo  bem? :hand`
+---
 `Olá, tudo bem? 🤙`
 
